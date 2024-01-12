@@ -1,0 +1,4 @@
+{nom};{carte.famille}{carte.valeur};{carte.famille}{carte.valeur};{carte.famille}{carte.valeur};{carte.famille}{carte.valeur};{carte.famille}{carte.valeur};
+5459617292
+5456607191
+5556608594
